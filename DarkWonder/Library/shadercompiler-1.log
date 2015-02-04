@@ -1,0 +1,17 @@
+Base path: E:/softwares/unity3d/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-5012
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=0 type=0 insize=3359 outsize=743 kw=WATER_REFRACTIVE ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3359 outsize=743 kw=WATER_REFLECTIVE ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3359 outsize=2087 kw=WATER_REFLECTIVE ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3359 outsize=1055 kw=WATER_REFRACTIVE ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3359 outsize=944 kw=WATER_REFLECTIVE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3359 outsize=756 kw=WATER_REFLECTIVE ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3359 outsize=3860 kw=WATER_REFLECTIVE ok=1
