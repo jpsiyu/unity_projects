@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Battle\Assets\Scripts\Enemy\EnemyController.cs">
+    <Files>
+      <File FileName="..\..\Battle\Assets\Scripts\Allices\AllicesController.cs" Line="1" Column="1" />
+      <File FileName="..\..\Battle\Assets\Scripts\Enemy\EnemyController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
