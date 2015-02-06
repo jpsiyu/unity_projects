@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameController\AllicesSpawn.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Army\ArmyController.cs" Line="72" Column="1" />
+      <File FileName="Assets\Scripts\Dragon\DragonFire.cs" Line="19" Column="16" />
+      <File FileName="Assets\Scripts\GameController\AllicesSpawn.cs" Line="27" Column="11" />
+      <File FileName="Assets\Scripts\GameController\GoldController.cs" Line="25" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
