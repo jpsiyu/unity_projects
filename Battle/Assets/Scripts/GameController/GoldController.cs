@@ -22,7 +22,7 @@ public class GoldController : MonoBehaviour {
 
 
 		currentTime = Time.time;
-		goldCounter = 0;
+		goldCounter = 100;
 	}
 	
 	// Update is called once per frame

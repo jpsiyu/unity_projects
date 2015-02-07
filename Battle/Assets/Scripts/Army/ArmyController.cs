@@ -20,6 +20,7 @@ public class ArmyController : MonoBehaviour {
 	private Vector3 pos;
 	private Animator anim;
 	public bool keyFrameAttacking;
+	public float allicesMaxDistanceX;
 
 	// Use this for initialization
 	void Start () {
@@ -68,6 +69,12 @@ public class ArmyController : MonoBehaviour {
 		else{
 			transform.position += pos;
 			
+		}
+
+		if (armyType == ArmyType.Allices) {
+			pos = transform.position;
+			pos.x = Mathf.Clamp(pos.x, pos.x, allicesMaxDistanceX);
+			transform.position = pos;
 		}
 		
 	}

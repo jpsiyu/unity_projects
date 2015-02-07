@@ -20,6 +20,9 @@ public class AllicesDetector : MonoBehaviour {
 	}
 	
 	void Attack(){
+		if (attackTargets == null)
+			return;
+
 		attackTarget = null;
 		foreach (GameObject o in attackTargets) {
 			if(o != null){	
@@ -41,9 +44,6 @@ public class AllicesDetector : MonoBehaviour {
 	
 	// tell the army object do attack action
 	void OnTriggerEnter(Collider other){
-		// here very important, can not change target before it die
-		if(attackTarget != null)
-			return;
 
 		// ok, player is our friend
 		if(other.tag == "Enemy" ){
